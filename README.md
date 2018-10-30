@@ -1,3 +1,3 @@
 # COPDGene
 
-For beta testing.
+For submitting issues, feature requests, bugs, etc while using the helium.commonsshare.org platform.
